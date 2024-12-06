@@ -59,7 +59,7 @@ Repository Link: [**unc-csxl/csxl.unc.edu**](https://github.com/unc-csxl/csxl.un
 
 | Issue                                                                                                                                                                          | Pull Request                                                                                                                         |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
-| [![✅ RESOLVED](./assets/resolved.png) Improve User Feedback When Reservation Fails Due to Unaccepted Community Agreement](https://github.com/unc-csxl/csxl.unc.edu/issues/625) | [![🚫 CLOSED](./assets/closed.png) Add User Agreement Check Before Reservations ](https://github.com/unc-csxl/csxl.unc.edu/pull/626) |
+| [![✅ RESOLVED](./assets/resolved.png) Improve User Feedback When Reservation Fails Due to Unaccepted Community Agreement](https://github.com/unc-csxl/csxl.unc.edu/issues/625) | [![ 🚧 CLOSED](./assets/pr-closed.png) Add User Agreement Check Before Reservations ](https://github.com/unc-csxl/csxl.unc.edu/pull/626) |
 
 ### Chips Input AutoComplete
 
